@@ -1,6 +1,7 @@
 Repositório para visão computacional clássica. 
 Todos os arquivos foram traduzidos e incrementados por mim. 
-O curso de referência: Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2024!
+
+O curso de referência: Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2024 by Rajeev Ratan
 
 ## **LISTA DE CONTEÚDO**
 
