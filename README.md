@@ -38,3 +38,6 @@ O curso de referência: Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2
 ## **PROJETOS EM OPENCV** 
 
 1. Criação de imagens com efeito miniatura
+2. GrabCut para segmentação
+3. OCR com Pytesseract
+4. OCR com EasyOCR
