@@ -41,3 +41,7 @@ O curso de referência: Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2
 2. GrabCut para segmentação
 3. OCR com Pytesseract
 4. OCR com EasyOCR
+5. QR Code e Código de barras, Geração e Leitura
+6. YoloV3
+7. YoloV5, V7, V8
+8. Neural Style Transfer
