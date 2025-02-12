@@ -3,6 +3,10 @@
 *.onnx
 *.mp4
 *.t7
+*.zip
+*.pb
+*.pbtxt
+train2017/
 yolov5/
 yolov7/
 videos/
