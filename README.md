@@ -45,3 +45,10 @@ O curso de referência: Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2
 6. YoloV3
 7. YoloV5, V7, V8
 8. Neural Style Transfer
+9. Colorização de imagens
+10. Restauração de imagens
+11. Detecção de blur
+12. SSD
+13. Detecção de lesões de pele YOLO
+14. Equalização de histogramas
+15. Reconhecimento facial
