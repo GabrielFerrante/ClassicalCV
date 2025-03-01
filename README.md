@@ -6,34 +6,36 @@ O curso de referência: Modern Computer Vision GPT, PyTorch, Keras, OpenCV4 in 2
 ## **LISTA DE CONTEÚDO**
 
 
-1. Getting Started with OpenCV4
-2. Grayscaling Images
-3. Colour Spaces - RGB and HSV
-4. Drawing on Images
-5. Transformations - Translations and Rotations
-6. Scaling, Re-sizing, Interpolations and Cropping
-7. Arithmetic and Bitwise Operations
-8. Convolutions, Blurring and Sharpening Images
-9. Thresholding, Binarization & Adaptive Thresholding
-10. Dilation, Erosion and Edge Detection
-11. Contours - Drawing, Hierarchy and Modes
-12. Moments, Sorting, Approximating and Matching Contours
-13. Line, Circle and Blob Detection
-14. Counting Circles, Ellipses and Finding Waldo with Template Matching
-15. Finding Corners
-16. Face and Eye Detection with Haar Cascade Classifiers
-17. Vehicle and Pedestrian Detection
-18. Perspective Transforms
-19. Histograms and K-Means Clustering for Dominant Colors
-20. Comparing Images MSE and Structural Similarity
-21. Filtering on Colour
-22. Watershed Algorithm Marker-Based Image Segmentation
-23. Background and Foreground Subtraction
-24. Motion Tracking with Mean Shift and CAMSHIFT
-25. Object Tracking with Optical Flow
-26. Simple Object Tracking by Color
-27. Facial Landmark Detection with Dlib
-28. Face Swapping with Dlib
+LISTA DE CONTEÚDO
+
+1. Introdução ao OpenCV4
+2. Conversão de Imagens para Escala de Cinza
+3. Espaços de Cores – RGB e HSV
+4. Desenhando em Imagens
+5. Transformações – Translações e Rotações
+6. Escalonamento, Redimensionamento, Interpolações e Recorte
+7. Operações Aritméticas e Bitwise
+8. Convoluções, Desfoque e Aumento de Nitidez em Imagens
+9. Limiarização, Binarização e Limiarização Adaptativa
+10. Dilatação, Erosão e Detecção de Bordas
+11. Contornos – Desenho, Hierarquia e Modos
+12. Momentos, Ordenação, Aproximação e Correspondência de Contornos
+13. Detecção de Linhas, Círculos e Blobs
+14. Contagem de Círculos, Elipses e Encontrando Waldo com Correspondência de Modelo
+15. Detecção de Cantos
+16. Detecção de Faces e Olhos com Classificadores em Cascata Haar
+17. Detecção de Veículos e Pedestre
+18. Transformações de Perspectiva
+19. Histogramas e Agrupamento K-Means para Cores Dominantes
+20. Comparação de Imagens: Erro Quadrático Médio e Similaridade Estrutural
+21. Filtragem por Cor
+22. Algoritmo Watershed: Segmentação de Imagens Baseada em Marcadores
+23. Subtração de Fundo e Primeiro Plano
+24. Rastreamento de Movimento com Mean Shift e CAMSHIFT
+25. Rastreamento de Objetos com Fluxo Óptico
+26. Rastreamento Simples de Objetos por Cor
+27. Detecção de Pontos de Referência Faciais com Dlib
+28. Troca de Rostos com Dlib
 
 ## **PROJETOS EM OPENCV** 
 
