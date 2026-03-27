@@ -37,20 +37,16 @@ LISTA DE CONTEÚDO
 27. Detecção de Pontos de Referência Faciais com Dlib
 28. Troca de Rostos com Dlib
 
-## **PROJETOS EM OPENCV** 
+## **PROJETOS ÚTEIS** 
 
 1. Criação de imagens com efeito miniatura
 2. GrabCut para segmentação
 3. OCR com Pytesseract
 4. OCR com EasyOCR
 5. QR Code e Código de barras, Geração e Leitura
-6. YoloV3
-7. YoloV5, V7, V8
-8. Neural Style Transfer
-9. Colorização de imagens
-10. Restauração de imagens
-11. Detecção de blur
-12. SSD
-13. Detecção de lesões de pele YOLO
-14. Equalização de histogramas
-15. Reconhecimento facial
+6. Neural Style Transfer
+7. Colorização de imagens
+8. Restauração de imagens
+9. Detecção de blur
+10. Equalização de histogramas
+11. Reconhecimento facial
